@@ -1,5 +1,4 @@
 bananas
-lemons
 cherries
 oranges
 strawberries
